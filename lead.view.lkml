@@ -1,5 +1,5 @@
 view: _lead {
-  sql_table_name: stitch_salesforce.sf_lead ;;
+  sql_table_name: stitch_salesforce."sf_Lead" ;;
   # dimensions #
 
   dimension: id {

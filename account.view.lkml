@@ -1,5 +1,5 @@
 view: _account {
-  sql_table_name: looker_salesforce.sf_account ;;
+  sql_table_name: stitch_salesforce."sf_Account" ;;
   # dimensions #
 
   dimension: id {

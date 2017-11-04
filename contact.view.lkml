@@ -1,5 +1,5 @@
 view: _contact {
-  sql_table_name: stitch_salesforce.sf_contact ;;
+  sql_table_name: stitch_salesforce."sf_Contact" ;;
   # dimensions #
 
   dimension: id {
